@@ -92,7 +92,7 @@ archives:
 
 release:
   github:
-    owner: ochinchina
+    owner: JustTestCode
     name: supervisord
   draft: false
   prerelease: auto
